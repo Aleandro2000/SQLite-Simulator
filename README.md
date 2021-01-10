@@ -1,0 +1,1 @@
+This project is realized by Aleandro 2000. It is a SQLite simulator that may run SQL/MySQL commands. It may run on WINDOWS OS and LINUX OS.
