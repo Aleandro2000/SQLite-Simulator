@@ -4,3 +4,5 @@ build:
 	(mkdir Windows-64&&x86_64-w64-mingw32-g++ -o ./Windows-64/"sqlite".exe "sqlite".cpp)||x86_64-w64-mingw32-g++ -o ./Windows-64/"sqlite".exe "sqlite".cpp
 linux-run:
 	./Linux/"sqlite"
+init:
+	mkdir query structure tables

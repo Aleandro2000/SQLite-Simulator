@@ -1,1 +1,2 @@
 This project is realized by Aleandro 2000. It is a SQLite simulator that may run SQL/MySQL commands. It may run on WINDOWS OS and LINUX OS.
+For running this program right, create: "query", "structure" and "tables" folders in the "sqlite.cpp"'s dierctory or run "make init" on CLI if you are on LINUX DEBIAN OS.
